@@ -13,7 +13,7 @@
 
 <br>
 
-![Stats Card](https://github-readme-stats.vercel.app/api?username=Aanyajain&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
+![Stats Card](https://github-readme-stats.vercel.app/api?username=AanyaJain2000&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
 <hr>
 
 
